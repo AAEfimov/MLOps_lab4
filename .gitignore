@@ -3,3 +3,4 @@
 /train.csv
 /passenger.csv
 /mean_age_passenger.csv
+/one_hot_encoding_passenger.csv
